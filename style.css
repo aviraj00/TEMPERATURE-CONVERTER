@@ -1,7 +1,7 @@
 body{
     margin-top: 60px;
     text-align:center;
-    background-color: BLUE;
+    background-color: cyan;
     background-repeat: no-repeat ;
     background-size:cover;
     @media screen and (max-width:480px) {
