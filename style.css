@@ -1,8 +1,7 @@
 body{
     margin-top: 60px;
     text-align:center;
-    background-color: black;
-    background-image: url("https://img.freepik.com/free-photo/closeup-shot-thermometer-beach-sand_181624-12367.jpg?size=626&ext=jpg");
+    background-color: BLUE;
     background-repeat: no-repeat ;
     background-size:cover;
     @media screen and (max-width:480px) {
